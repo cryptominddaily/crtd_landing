@@ -344,7 +344,7 @@ export default function Home() {
               </div>
 
               <a
-                href="https://discord.gg/your-invite-link"
+                href="https://discord.gg/Amv97QPq"
                 className="block w-full py-4 bg-gradient-to-r from-cyan-600 to-teal-600 hover:from-cyan-700 hover:to-teal-700 text-white text-center rounded-full transition-all font-bold text-lg shadow-lg shadow-cyan-500/50"
               >
                 Join Discord Now
@@ -370,7 +370,7 @@ export default function Home() {
               deep analysis, and a supportive community. Start your journey today.
             </p>
             <a
-              href="https://discord.gg/your-invite-link"
+              href="https://discord.gg/Amv97QPq"
               className="inline-block px-10 py-5 bg-gradient-to-r from-cyan-600 to-teal-600 hover:from-cyan-700 hover:to-teal-700 text-white rounded-full transition-all font-bold text-xl shadow-lg shadow-cyan-500/50"
             >
               Get Started Today
