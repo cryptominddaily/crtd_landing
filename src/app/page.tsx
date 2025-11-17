@@ -390,8 +390,8 @@ export default function Home() {
               Created by Stonks (@stonkscryptomind)
             </p>
             <div className="flex gap-6 justify-center text-slate-400 text-sm">
-              <a href="#" className="hover:text-white transition-colors">Discord</a>
-              <a href="#" className="hover:text-white transition-colors">YouTube</a>
+              <a href="https://discord.gg/Amv97QPq" className="hover:text-white transition-colors">Discord</a>
+              <a href="https://www.youtube.com/@CryptomindDaily" className="hover:text-white transition-colors">YouTube</a>
               <a href="#" className="hover:text-white transition-colors">Terms</a>
               <a href="#" className="hover:text-white transition-colors">Privacy</a>
             </div>
