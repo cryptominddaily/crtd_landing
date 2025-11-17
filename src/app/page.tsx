@@ -284,7 +284,8 @@ export default function Home() {
             </p>
           </div>
 
-          <div className="max-w-lg mx-auto">
+          <div className="flex flex-wrap justify-center gap-8 max-w-lg mx-auto">
+            <div className="max-w-lg">
             <div className="relative bg-gradient-to-br from-cyan-900/50 to-teal-900/50 backdrop-blur-sm border-2 border-cyan-500/50 rounded-3xl p-8 md:p-12">
               <div className="absolute -top-4 left-1/2 -translate-x-1/2 px-6 py-2 bg-gradient-to-r from-cyan-600 to-teal-600 rounded-full text-white font-semibold text-sm">
                 PREMIUM PLAN
@@ -426,6 +427,7 @@ export default function Home() {
                 Have questions about membership? Ask in <span className="text-cyan-400 font-semibold">🆘┃help</span> – we're here for you!
               </p>
             </div>
+          </div>
           </div>
           
         </div>
