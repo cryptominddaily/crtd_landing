@@ -462,7 +462,7 @@ export default function Home() {
               CryptoMind Premium
             </div>
             <p className="text-slate-400 mb-6">
-              Created by Stonks (@stonkscryptomind)
+              Created by Stonks
             </p>
             <div className="flex gap-6 justify-center text-slate-400 text-sm">
               <a href="https://discord.gg/Amv97QPq" className="hover:text-white transition-colors">Discord</a>
