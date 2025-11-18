@@ -467,8 +467,9 @@ export default function Home() {
             <div className="flex gap-6 justify-center text-slate-400 text-sm">
               <a href="https://discord.gg/Amv97QPq" className="hover:text-white transition-colors">Discord</a>
               <a href="https://www.youtube.com/@CryptomindDaily" className="hover:text-white transition-colors">YouTube</a>
-              <a href="#" className="hover:text-white transition-colors">Terms</a>
-              <a href="#" className="hover:text-white transition-colors">Privacy</a>
+              <a href="https://www.instagram.com/cryptomind_daily/" className="hover:text-white transition-colors">Instagram</a>
+              <a href="https://x.com/cryptominddaily" className="hover:text-white transition-colors">X</a>
+              <a href="https://www.facebook.com/profile.php?id=61579158249260" className="hover:text-white transition-colors">Facebook</a>
             </div>
           </div>
         </div>
