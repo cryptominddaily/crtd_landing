@@ -4,5 +4,4 @@ export default defineCloudflareConfig({
   incrementalCache: "dummy",
   tagCache: "dummy",
   queue: "dummy",
-  enableCacheInterception: true,
 });
