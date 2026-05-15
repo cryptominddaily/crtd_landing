@@ -5,8 +5,6 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "deploy": "bunx @opennextjs/cloudflare build && bunx @opennextjs/cloudflare deploy",
-    "preview": "bunx @opennextjs/cloudflare build && bunx @opennextjs/cloudflare preview",
     "start": "next start",
     "lint": "eslint"
   },
@@ -23,10 +21,6 @@
     "@tailwindcss/postcss": "^4",
     "tailwindcss": "^4",
     "eslint": "^9",
-    "eslint-config-next": "16.0.1",
-    "@opennextjs/cloudflare": "0.4.5"
-  },
-  "overrides": {
-    "@opennextjs/aws": "3.7.4"
+    "eslint-config-next": "16.0.1"
   }
 }
